@@ -6,11 +6,11 @@ Ayo ! I'm Antoine Dabin, a french student at [Epitech](https://www.epitech.eu/).
 
 ```javascript
     const Antoine = {
-        name = "Antoine Dabin",
-        age = 20,
-        job = "Student",
-        languages = ["NodeJS", "C", "Python"],
-        activities = ["Code weird things", "Play video games", "Read mangas", "Sleep"]
+        name: "Antoine Dabin",
+        age: 20,
+        job: "Student",
+        languages: ["NodeJS", "C", "Python"],
+        activities: ["Code weird things", "Play video games", "Read mangas", "Sleep"]
     }
 ```
 ---------------------------------------
