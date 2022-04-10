@@ -19,10 +19,9 @@ Ayo ! I'm Antoine Dabin, a french student at [Epitech](https://www.epitech.eu/).
 
 <div align="left">
   <a href="https://open.spotify.com/user/21yw5xk3lc73fxo72wekyj2ha">
-    <img src="https://novatorem-a-dbn.vercel.app/api/spotify" width="60%" >
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <img src="https://novatorem-a-dbn.vercel.app/api/spotify" width="60%">
+  </a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="https://media.giphy.com/media/oDfjEW4TXl0F5ZqHqJ/giphy.gif" width="25%" height="20%" style="position:absolute; right:10%" frameBorder="0">
-  </a>
 </div>
 
 ---------------------------------------
