@@ -7,7 +7,7 @@ Ayo ! I'm Antoine Dabin, a french student at [Epitech](https://www.epitech.eu/).
 ```javascript
     const Antoine = {
         name: "Antoine Dabin",
-        age: 20,
+        age: 21,
         job: "Student",
         languages: ["NodeJS", "C", "Python"]
     }
