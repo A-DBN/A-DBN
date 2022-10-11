@@ -9,8 +9,7 @@ Ayo ! I'm Antoine Dabin, a french student at [Epitech](https://www.epitech.eu/).
         name: "Antoine Dabin",
         age: 20,
         job: "Student",
-        languages: ["NodeJS", "C", "Python"],
-        activities: ["Code weird things", "Play video games", "Read mangas", "Sleep"]
+        languages: ["NodeJS", "C", "Python"]
     }
 ```
 ---------------------------------------
