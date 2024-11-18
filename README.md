@@ -61,9 +61,6 @@
   </a>
 </p>
 
-<p align="left">
-  🔗 <b>ToolboxCore Specific Branch:</b> <a href="https://github.com/The-Geneps-Personnal-Project/ToolboxCore/tree/1-CoreV1">1-CoreV1</a>
-</p>
 <h2>✨ Random Dev Quote</h2> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"> </p>
 <h2>📫 Let's Connect</h2> <p align="center"> <a href="https://www.linkedin.com/in/antoine-dabin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:adabin@hotmail.fr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
 <p align="center"> <p align="center"> <i>"Thank you for stopping by! Check out my repos and let’s build something awesome together!"</i> </p>
